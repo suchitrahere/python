@@ -23,6 +23,8 @@ def datedeltawithanumber():
 
 # Below function Adds two months to a date
 
+#This fucntion is to validate if some data was entered, if no data was entered, it will keep asking to enter a date to proceed
+#note: this function does not check the validity of entered data, example format.
 def takeInput(caption):
     temp = input(caption)
     if (temp):
