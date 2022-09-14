@@ -18,7 +18,7 @@ def dictionarypostwithitems():
 
 
 # dictionary ,pop items out of dictionary using pop
-def popkeysfromdict1():
+def popkeysfromdict():
     post = {"userid": 'junesuchi', "location": (
         12454.12, 414512), "language": 'English', "ID": 150}
     print("Below content is the results of using pop method \n")
@@ -28,4 +28,4 @@ def popkeysfromdict1():
 
 dictionary_post()
 dictionarypostwithitems()
-popkeysfromdict1()
+popkeysfromdict()
