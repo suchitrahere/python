@@ -1,0 +1,7 @@
+INFO:root:We start logging issues from here in code
+DEBUG:root:Check if multiplication worked
+DEBUG:root:check if area is returned
+INFO:root:This is used to print basic information while logging
+DEBUG:root:This is used to debug the section of code
+WARNING:root:To show warning to user before taking an action
+CRITICAL:root:To show user critical messages incase of extreme failure to progress in an application
